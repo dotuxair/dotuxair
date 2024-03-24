@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @dotuxair, a student soon graduating in September 2024. I'm passionate about building web and mobile applications.
+- 👀 I’m interested in Angular, ASP.NET Core (API & MVC), Flutter ( Mobile ) and EF Core.
